@@ -1,0 +1,22 @@
+# Compiled simulation files
+traffic_sim
+*.vvp
+*.out
+
+# Waveform backup files
+*.fst
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# VS Code settings
+.vscode/
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# macOS files
+.DS_Store
